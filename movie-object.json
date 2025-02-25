@@ -1,0 +1,437 @@
+[
+  {
+    "title": "Lagaan",
+    "director": "Ashutosh Gowariker",
+    "studio": "Aamir Khan Productions",
+    "releaseDate": "15-06-2001",
+    "avgVote": 8.1,
+    "cast": ["Aamir Khan", "Gracy Singh", "Rachel Shelley"],
+    "category": {
+      "name": "Popular"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "history"
+      },
+      {
+        "name": "sports"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Dangal",
+    "director": "Nitesh Tiwari",
+    "studio": "Aamir Khan Productions",
+    "releaseDate": "23-12-2016",
+    "avgVote": 8.4,
+    "cast": ["Aamir Khan", "Fatima Sana Shaikh", "Sanya Malhotra"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "biography"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "sports"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "director": "Zoya Akhtar",
+    "studio": "Excel Entertainment",
+    "releaseDate": "15-07-2011",
+    "avgVote": 8.1,
+    "cast": ["Hrithik Roshan", "Farhan Akhtar", "Abhay Deol"],
+    "category": {
+      "name": "Popular"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "adventure"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Kabhi Khushi Kabhie Gham",
+    "director": "Karan Johar",
+    "studio": "Dharma Productions",
+    "releaseDate": "14-12-2001",
+    "avgVote": 7.9,
+    "cast": ["Shah Rukh Khan", "Amitabh Bachchan", "Kajol"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "romance"
+      },
+      {
+        "name": "musical"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Sholay",
+    "director": "Ramesh Sippy",
+    "studio": "Amiya Films",
+    "releaseDate": "15-08-1975",
+    "avgVote": 8.2,
+    "cast": ["Amitabh Bachchan", "Dharmendra", "Hema Malini"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "action"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "adventure"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "3 Idiots",
+    "director": "Rajkumar Hirani",
+    "studio": "Vidhu Vinod Chopra Productions",
+    "releaseDate": "25-12-2009",
+    "avgVote": 8.4,
+    "cast": ["Aamir Khan", "R. Madhavan", "Kareena Kapoor"],
+    "category": {
+      "name": "Popular"
+    },
+    "genres": [
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "romance"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "PK",
+    "director": "Rajkumar Hirani",
+    "studio": "Vidhu Vinod Chopra Productions",
+    "releaseDate": "19-12-2014",
+    "avgVote": 8.1,
+    "cast": ["Aamir Khan", "Anushka Sharma", "Sushant Singh Rajput"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "sci-fi"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Raazi",
+    "director": "Meghna Gulzar",
+    "studio": "Dharma Productions",
+    "releaseDate": "11-05-2018",
+    "avgVote": 7.8,
+    "cast": ["Alia Bhatt", "Vicky Kaushal", "Rajit Kapoor"],
+    "category": {
+      "name": "Upcoming"
+    },
+    "genres": [
+      {
+        "name": "thriller"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "history"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Barfi!",
+    "director": "Anurag Basu",
+    "studio": "UTV Motion Pictures",
+    "releaseDate": "14-09-2012",
+    "avgVote": 8.1,
+    "cast": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
+    "category": {
+      "name": "Popular"
+    },
+    "genres": [
+      {
+        "name": "romance"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "comedy"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Queen",
+    "director": "Vikas Bahl",
+    "studio": "Viacom 18 Motion Pictures",
+    "releaseDate": "07-03-2014",
+    "avgVote": 8.2,
+    "cast": ["Kangana Ranaut", "Rajkummar Rao", "Lisa Haydon"],
+    "category": {
+      "name": "Upcoming"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "romance"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "releaseDate": "24-05-2017",
+    "avgVote": 8.6,
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "sci-fi"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "comedy"
+      }
+    ]
+  },
+  {
+    "releaseDate": "17-08-2020",
+    "avgVote": 8.1,
+    "category": {
+      "name": "Upcoming"
+    },
+    "genres": [
+      {
+        "name": "action"
+      },
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "romance"
+      }
+    ]
+  },
+  {
+    "title": "Taare Zameen Par",
+    "director": "Aamir Khan",
+    "studio": "Aamir Khan Productions",
+    "releaseDate": "21-12-2007",
+    "avgVote": 8.4,
+    "cast": ["Darsheel Safary", "Aamir Khan", "Tisca Chopra"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "family"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Chak De! India",
+    "director": "Shimit Amin",
+    "studio": "Yash Raj Films",
+    "releaseDate": "10-08-2007",
+    "avgVote": 8.2,
+    "cast": ["Shah Rukh Khan", "Vidya Malvade", "Sagarika Ghatge"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "sports"
+      },
+      {
+        "name": "drama"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Piku",
+    "director": "Shoojit Sircar",
+    "studio": "Rising Sun Films",
+    "releaseDate": "08-05-2015",
+    "avgVote": 7.9,
+    "cast": ["Amitabh Bachchan", "Deepika Padukone", "Irrfan Khan"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "family"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "director": "Aditya Chopra",
+    "studio": "Yash Raj Films",
+    "releaseDate": "20-10-1995",
+    "avgVote": 8.1,
+    "cast": ["Shah Rukh Khan", "Kajol", "Amrish Puri"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "romance"
+      },
+      {
+        "name": "drama"
+      },
+      {
+        "name": "musical"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Tanu Weds Manu",
+    "director": "Aanand L. Rai",
+    "studio": "Eros International",
+    "releaseDate": "25-02-2011",
+    "avgVote": 7.6,
+    "cast": ["R. Madhavan", "Kangana Ranaut", "Jimmy Sheirgill"],
+    "category": {
+      "name": "Popular"
+    },
+    "genres": [
+      {
+        "name": "romance"
+      },
+      {
+        "name": "comedy"
+      },
+      {
+        "name": "drama"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Kabir Singh",
+    "director": "Sandeep Reddy Vanga",
+    "studio": "T-Series",
+    "releaseDate": "21-06-2019",
+    "avgVote": 7.1,
+    "cast": ["Shahid Kapoor", "Kiara Advani", "Suresh Oberoi"],
+    "category": {
+      "name": "Top Rated"
+    },
+    "genres": [
+      {
+        "name": "romance"
+      },
+      {
+        "name": "drama"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  },
+  {
+    "title": "Mughal-e-Azam",
+    "director": "K. Asif",
+    "studio": "Shapoorji Pallonji Group",
+    "releaseDate": "05-08-1960",
+    "avgVote": 8.1,
+    "cast": ["Dilip Kumar", "Madhubala", "Prithviraj Kapoor"],
+    "category": {
+      "name": "Classic"
+    },
+    "genres": [
+      {
+        "name": "drama"
+      },
+      {
+        "name": "romance"
+      },
+      {
+        "name": "musical"
+      }
+    ],
+    "poster": null,
+    "posterUrl": null
+  }
+]
