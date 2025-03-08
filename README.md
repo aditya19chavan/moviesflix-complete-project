@@ -5,7 +5,7 @@
 A full-stack web application built with React.js and Spring Boot, allowing users to browse and manage movies fetched from a real-time API.
 
 Features:
-✅ User Authentication – Secure login & registration with JWT authentication
+
 ✅ Movie Catalog – Fetches real-time movie data from the backend API
 ✅ Search & Filters – Allows users to search movies and filter by category, genre, or rating
 ✅ Watchlist Management – Users can save and manage favorite movies
