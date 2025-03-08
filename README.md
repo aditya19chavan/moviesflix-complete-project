@@ -1,3 +1,7 @@
+
+🎬 MovieFlix - Full Stack Movie Streaming Platform
+
+
 A full-stack web application built with React.js and Spring Boot, allowing users to browse and manage movies fetched from a real-time API.
 
 Features:
