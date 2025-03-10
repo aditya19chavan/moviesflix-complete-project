@@ -9,7 +9,7 @@ Features:
 ✅ Movie Catalog – Fetches real-time movie data from the backend API
 ✅ Search & Filters – Allows users to search movies and filter by category, genre, or rating
 ✅ Watchlist Management – Users can save and manage favorite movies
-✅ Responsive UI – Built with React.js and Tailwind CSS for an intuitive experience
+✅ Responsive UI – Built with React.js and Bootstrap for an intuitive experience
 ✅ Backend API – Developed with Spring Boot, MySQL, and RESTful endpoints
 
 Project Structure:
